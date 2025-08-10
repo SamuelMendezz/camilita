@@ -115,5 +115,3 @@ papers.forEach(paper => {
   p.init(paper);
 });
 
-
-});
